@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://iothomedesign.com/blog/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iothomedesign.com/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -25,19 +22,13 @@
                 hreflang="zh-cn"
                 href="https://iothomedesign.com/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iothomedesign.com/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iothomedesign.com/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iothomedesign.com/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -55,24 +46,16 @@
                 hreflang="zh-cn"
                 href="https://iothomedesign.com/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iothomedesign.com/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iothomedesign.com/blog/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iothomedesign.com/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iothomedesign.com/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -90,59 +73,37 @@
                 hreflang="zh-cn"
                 href="https://iothomedesign.com/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iothomedesign.com/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iothomedesign.com/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iothomedesign.com/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iothomedesign.com/blog/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iothomedesign.com/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iothomedesign.com/blog/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iothomedesign.com/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iothomedesign.com/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iothomedesign.com/blog/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iothomedesign.com/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iothomedesign.com/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -155,5 +116,4 @@
                 href="https://iothomedesign.com/contact/"
                 />
   </url>
-  
 </urlset>
