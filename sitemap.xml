@@ -1,197 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>https://iothomedesign.com/about/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
+  <sitemap>
+    <loc>https://iothomedesign.com/en/sitemap.xml</loc>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://iothomedesign.com/tags/article/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
+  <sitemap>
+    <loc>https://iothomedesign.com/de/sitemap.xml</loc>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://iothomedesign.com/categories/article/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
+  <sitemap>
+    <loc>https://iothomedesign.com/zh-cn/sitemap.xml</loc>
+    
+      <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://iothomedesign.com/categories/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/charming-evening-field.1/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/charming-evening-field.10/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/charming-evening-field.11/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/charming-evening-field.2/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/charming-evening-field.3/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/charming-evening-field.4/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/charming-evening-field.5/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/charming-evening-field.6/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/charming-evening-field.7/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/charming-evening-field.8/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/charming-evening-field.9/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/charming-evening-field/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/contact/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/tags/fashion/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/categories/fashion/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/tags/finance/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/tags/food/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/categories/food/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/tags/nature/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/categories/nature/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/organize-your-life.1/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/organize-your-life.2/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/organize-your-life.3/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/organize-your-life.4/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/organize-your-life/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/tags/philosophy/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/categories/philosophy/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/tags/photos/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/search/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/tags/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/categories/valuable-idea/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/homepage/home-1/</loc>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/homepage/home-2/</loc>
-  </url>
-  
-  <url>
-    <loc>https://iothomedesign.com/homepage/</loc>
-  </url>
-  
-</urlset>
+</sitemapindex>

@@ -1,63 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Parsa Hugo | Personal Blog Template</title>
+    <title>Categories on Hugo Future Imperfect Slim</title>
     <link>https://iothomedesign.com/categories/</link>
-    <description>Recent content in Categories on Parsa Hugo | Personal Blog Template</description>
+    <description>Recent content in Categories on Hugo Future Imperfect Slim</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate><atom:link href="https://iothomedesign.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://iothomedesign.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Article</title>
-      <link>https://iothomedesign.com/categories/article/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      <title>syntax</title>
+      <link>https://iothomedesign.com/categories/syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://iothomedesign.com/categories/article/</guid>
+      <guid>https://iothomedesign.com/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Fashion</title>
-      <link>https://iothomedesign.com/categories/fashion/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      <title>themes</title>
+      <link>https://iothomedesign.com/categories/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://iothomedesign.com/categories/fashion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Food</title>
-      <link>https://iothomedesign.com/categories/food/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://iothomedesign.com/categories/food/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nature</title>
-      <link>https://iothomedesign.com/categories/nature/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://iothomedesign.com/categories/nature/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Philosophy</title>
-      <link>https://iothomedesign.com/categories/philosophy/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://iothomedesign.com/categories/philosophy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Valuable Idea</title>
-      <link>https://iothomedesign.com/categories/valuable-idea/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://iothomedesign.com/categories/valuable-idea/</guid>
+      <guid>https://iothomedesign.com/categories/themes/</guid>
       <description></description>
     </item>
     

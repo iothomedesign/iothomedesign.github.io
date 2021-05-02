@@ -1,72 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Parsa Hugo | Personal Blog Template</title>
+    <title>Tags on Hugo Future Imperfect Slim</title>
     <link>https://iothomedesign.com/tags/</link>
-    <description>Recent content in Tags on Parsa Hugo | Personal Blog Template</description>
+    <description>Recent content in Tags on Hugo Future Imperfect Slim</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate><atom:link href="https://iothomedesign.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://iothomedesign.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Article</title>
-      <link>https://iothomedesign.com/tags/article/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      <title>css</title>
+      <link>https://iothomedesign.com/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://iothomedesign.com/tags/article/</guid>
+      <guid>https://iothomedesign.com/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Fashion</title>
-      <link>https://iothomedesign.com/tags/fashion/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      <title>html</title>
+      <link>https://iothomedesign.com/tags/html/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://iothomedesign.com/tags/fashion/</guid>
+      <guid>https://iothomedesign.com/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Finance</title>
-      <link>https://iothomedesign.com/tags/finance/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      <title>markdown</title>
+      <link>https://iothomedesign.com/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://iothomedesign.com/tags/finance/</guid>
+      <guid>https://iothomedesign.com/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Food</title>
-      <link>https://iothomedesign.com/tags/food/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      <title>themes</title>
+      <link>https://iothomedesign.com/tags/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://iothomedesign.com/tags/food/</guid>
+      <guid>https://iothomedesign.com/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Nature</title>
-      <link>https://iothomedesign.com/tags/nature/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      <title>privacy</title>
+      <link>https://iothomedesign.com/tags/privacy/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://iothomedesign.com/tags/nature/</guid>
+      <guid>https://iothomedesign.com/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Philosophy</title>
-      <link>https://iothomedesign.com/tags/philosophy/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      <title>shortcodes</title>
+      <link>https://iothomedesign.com/tags/shortcodes/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://iothomedesign.com/tags/philosophy/</guid>
+      <guid>https://iothomedesign.com/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Photos</title>
-      <link>https://iothomedesign.com/tags/photos/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      <title>text</title>
+      <link>https://iothomedesign.com/tags/text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://iothomedesign.com/tags/photos/</guid>
+      <guid>https://iothomedesign.com/tags/text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emoji</title>
+      <link>https://iothomedesign.com/tags/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://iothomedesign.com/tags/emoji/</guid>
       <description></description>
     </item>
     

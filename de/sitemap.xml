@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://iothomedesign.com/de/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iothomedesign.com/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://iothomedesign.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://iothomedesign.com/de/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iothomedesign.com/de/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iothomedesign.com/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://iothomedesign.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://iothomedesign.com/de/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iothomedesign.com/de/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://iothomedesign.com/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://iothomedesign.com/de/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iothomedesign.com/de/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iothomedesign.com/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://iothomedesign.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://iothomedesign.com/de/tags/"
+                />
+  </url>
+  
+</urlset>
