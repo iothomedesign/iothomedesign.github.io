@@ -1,0 +1,49 @@
+.List {
+  list-style: none;
+  padding-left: 0;
+}
+
+.List__item {
+  padding: calc(var(--vb) / 3 * 2) 0;
+}
+
+.List__item p {
+  margin: 0;
+}
+
+.List__item .DottedList {
+  padding-left: 0;
+}
+
+.List__primary-content,
+.List__secondary-content {
+  display: inline;
+  margin: 0;
+}
+
+.List__primary-content::before,
+.List__secondary-content::before {
+  content: '';
+  display: block;
+  width: 100%;
+  margin: 10px 0;
+}
+
+.List__primary-content {
+  font-size: 150%;
+  line-height: 1.1;
+}
+
+.List__secondary-content {
+  font-size: 75%;
+  font-family: var(--code-font);
+}
+
+.List__secondary-content ul {
+  display: inline-block;
+  padding: 0;
+}
+
+.List__secondary-content ul::before {
+  content: '|';
+}

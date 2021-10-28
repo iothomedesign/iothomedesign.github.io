@@ -1,0 +1,14 @@
+.PostDate {
+  text-align: center;
+  margin-bottom: calc(var(--vb) * 2);
+}
+
+.PostDate::after {
+  content: '';
+  display: block;
+  width: 25%;
+  height: 1px;
+  margin: calc(var(--vb) / 2) auto 0;
+  background-color: #267cb9;
+  background-image: linear-gradient(to right, #dd7eb4, #267cb9);
+}

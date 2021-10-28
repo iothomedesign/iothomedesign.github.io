@@ -1,0 +1,38 @@
+/**
+ * Main content containers
+ * 1. Make the container full-width with a maximum width.
+ * 2. Leave some space on the edges, especially valuable on small screens.
+ */
+.container {
+  max-width: 950px; /* 1 */
+  max-width: 80ch; /* 1 */
+  padding-left: 1em; /* 2 */
+  padding-right: 1em; /* 2 */
+  width: 100%; /* 1 */
+  margin: 0 auto;
+}
+
+@media (min-width: 768px) {
+  .container {
+    padding-left: 2em;
+    padding-right: 2em;
+  }
+}
+
+/**
+ * Hide element while making it readable for screen readers
+ * See: https://kittygiraudel.com/2016/10/13/css-hide-and-seek/
+ */
+.visually-hidden {
+  border: 0 !important;
+  clip: rect(1px, 1px, 1px, 1px) !important;
+  -webkit-clip-path: inset(50%) !important;
+  clip-path: inset(50%) !important;
+  height: 1px !important;
+  overflow: hidden !important;
+  margin: -1px !important;
+  padding: 0 !important;
+  position: absolute !important;
+  width: 1px !important;
+  white-space: nowrap !important;
+}

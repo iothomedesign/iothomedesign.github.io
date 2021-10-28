@@ -1,0 +1,155 @@
+/**
+ * 1. Set up a decent box model on the root element.
+ */
+html {
+  box-sizing: border-box; /* 1 */
+  --code-font: 'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo',
+    'Courier', monospace;
+  --vb: 1.5em;
+}
+
+@font-face {
+  font-family: 'MiddleDot';
+  src: local('Times New Roman');
+  unicode-range: U+00B7;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  ::before,
+  ::after {
+    transition-duration: 0ms !important;
+    animation-duration: 0ms !important;
+  }
+}
+
+/**
+ * 1. Make all elements from the DOM inherit from the parent box-sizing
+ *    Since `*` has a specificity of 0, it does not override the `html` value
+ *    making all elements inheriting from the root box-sizing value.
+ *    See: https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
+ */
+*,
+::before,
+::after {
+  box-sizing: inherit; /* 1 */
+}
+
+/**
+ * 1. Reset default margin.
+ * 2. Prevent horizontal scrolling.
+ */
+body {
+  margin: 0; /* 1 */
+  color: #444;
+  font: 125% / 1.5 'MiddleDot', 'Baskerville', 'Lucida Bright', 'Perpetua',
+    'Times', 'Times New Roman', 'Palatino', 'Bookman', 'New Century Schoolbook',
+    serif;
+  overflow-x: hidden; /* 2 */
+}
+
+@media (min-width: 768px) {
+  body {
+    font-size: 140%;
+  }
+}
+
+/**
+ * Colorful horuzontal bar at the top of the site.
+ */
+body::before {
+  content: '';
+  height: 4px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 10;
+}
+
+body::before,
+hr {
+  background-image: linear-gradient(to right, #dd7eb4, #267cb9);
+}
+
+hr {
+  height: 4px;
+  border-radius: 4px;
+  border: 0;
+  margin: var(--vb) 0;
+}
+
+h2,
+h3 {
+  margin-top: var(--vb);
+  margin-bottom: calc(var(--vb) / 2);
+}
+
+p {
+  margin: calc(var(--vb) / 2) 0;
+}
+
+ul,
+ol {
+  padding-left: 1em;
+  margin: calc(var(--vb) / 2) 0;
+}
+
+li {
+  margin: calc(var(--vb) / 6) 0;
+}
+
+ul ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/**
+ * 1. Warning, potentially dangerous if using inline images.
+ */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block; /* 1 */
+  margin: var(--vb) 0;
+}
+
+/**
+ * The `.Navigation__link` and `.Title__link` have very different styles and
+ * should not be applied a gradient background.
+ */
+a:not(.Navigation__link):not(.Title__link) {
+  outline: 0;
+  color: inherit;
+  border-bottom: 0;
+  text-decoration: none;
+  background-image: linear-gradient(to right, #f2cfe3, #c4e0f3);
+  background-repeat: no-repeat;
+  background-size: 100% 0.2em;
+  background-position: 0 88%;
+  transition: 250ms ease-in;
+}
+
+/**
+ * The `.Navigation__link` do not use backgrounds, so it is unnecessary to
+ * include this selector here.
+ */
+a:not(.Title__link):hover,
+a:not(.Title__link):active,
+a:not(.Title__link):focus {
+  background-size: 100% 88%;
+}
+
+/**
+ * The `data-visited` attribute is only added to links within `.Main`, so it is
+ * unnecessary to check for `.Navigation__link` and `.Title__link` here.
+ */
+a[data-visited]:not([href^='#'])::after {
+  content: ' ✓';
+  opacity: 0.5;
+  font-size: 80%;
+}
+
+a:visited {
+  color: inherit;
+}

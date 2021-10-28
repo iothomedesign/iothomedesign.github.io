@@ -1,0 +1,28 @@
+.Search {
+  clear: both;
+  margin-top: calc(var(--vb) * 2);
+}
+
+.Search__input {
+  width: 100%;
+  display: block;
+  padding: 0.5em 0;
+  margin-bottom: 1.5em;
+  color: inherit;
+  border: 0;
+  font: inherit;
+  border-bottom: 2px solid #267cb9;
+  -webkit-appearance: textfield;
+  outline-offset: -2px;
+}
+
+.Search__input:focus {
+  outline: 0;
+  border-bottom-style: double;
+  border-bottom-color: #dd7eb4;
+}
+
+::-webkit-input-placeholder {
+  color: inherit;
+  opacity: 0.54;
+}
