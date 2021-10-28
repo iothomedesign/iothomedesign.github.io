@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/zh-cn/homedesign/</loc>
+    <loc>https://iothomedesign.com/zh-cn/homedesign/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/homedesign/"
+                href="https://iothomedesign.com/homedesign/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/homedesign/"
+                href="https://iothomedesign.com/zh-cn/homedesign/"
                 />
   </url><url>
-    <loc>https://example.com/zh-cn/homeiot/</loc>
+    <loc>https://iothomedesign.com/zh-cn/homeiot/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/homeiot/"
+                href="https://iothomedesign.com/homeiot/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/homeiot/"
+                href="https://iothomedesign.com/zh-cn/homeiot/"
                 />
   </url><url>
-    <loc>https://example.com/zh-cn/categories/</loc>
+    <loc>https://iothomedesign.com/zh-cn/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://iothomedesign.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/categories/"
+                href="https://iothomedesign.com/zh-cn/categories/"
                 />
   </url><url>
-    <loc>https://example.com/zh-cn/</loc>
+    <loc>https://iothomedesign.com/zh-cn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://iothomedesign.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/"
+                href="https://iothomedesign.com/zh-cn/"
                 />
   </url><url>
-    <loc>https://example.com/zh-cn/tags/</loc>
+    <loc>https://iothomedesign.com/zh-cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://iothomedesign.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/tags/"
+                href="https://iothomedesign.com/zh-cn/tags/"
                 />
   </url>
 </urlset>
